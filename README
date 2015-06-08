@@ -1,0 +1,6 @@
+SparseNet is a deep learning library in python that implements winner-take-all autoencoders.
+
+IPython Demo: http://www.comm.utoronto.ca/~makhzani/winner_take_all_autoencoders_demo.html
+
+---
+Please note that this is a research code that was never intended as a basis for extension or further development, therefore it is not clean.  
